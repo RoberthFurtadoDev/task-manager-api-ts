@@ -95,3 +95,4 @@ Integrar um frontend (React/Vue)
 📄 Licença
 Este projeto está sob a licença MIT.
 
+# task-manager-api-ts
